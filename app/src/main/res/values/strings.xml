@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SoftMind</string>
+    <string name="soft_hometitle">SoftMind</string>
+    <string name="soft_homewelcome">Seja Bem Vindo!</string>
+    <string name="soft_homedesc">Monitore seu bem-estar. Encontre suporte. Viva com mais equilíbrio!</string>
+    <string name="soft_homecomecar">Começar</string>
+
+
+    <string name="soft_feelingtitle">Como você se sente hoje?</string>
+
+
+
+</resources>
